@@ -1,0 +1,30 @@
+{
+  "name": "RestFulAPI-HAPIJS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/server.js",
+  "dependencies": {
+    "@hapi/hapi": "^20.1.3",
+    "nodemon": "^2.0.7"
+  },
+  "devDependencies": {
+    "eslint": "^7.27.0",
+    "eslint-plugin-react": "^7.24.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon './src/server.js",
+    "lint": "eslint ./src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BriansDream/Membangun-RestFulAPI-Menggunakan-HAPI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BriansDream/Membangun-RestFulAPI-Menggunakan-HAPI/issues"
+  },
+  "homepage": "https://github.com/BriansDream/Membangun-RestFulAPI-Menggunakan-HAPI#readme"
+}
